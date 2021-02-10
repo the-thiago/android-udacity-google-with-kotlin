@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Rolar</string>
+    <string name="a_dice">Um dado</string>
+</resources>
